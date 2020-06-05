@@ -1,2 +1,0 @@
-# E-Sallary
-Web gaji
